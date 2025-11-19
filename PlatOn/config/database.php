@@ -1,7 +1,7 @@
 <?php
 class Database {
     private $host = "localhost";
-    private $db_name = "PlatOn_db";
+    private $db_name = "platon_db";
     private $username = "root";
     private $password = "";
     public $conn;
@@ -21,3 +21,4 @@ class Database {
     }
 }
 ?>
+
