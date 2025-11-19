@@ -1,15 +1,21 @@
 # PlatOn
-🍽️ Système de Gestion de Restaurant 
+🍽️ Restaurant Management System (RMS)
+This project aims to modernize and optimize restaurant operational management by replacing traditional manual methods with an efficient, fast, and highly ergonomic digital solution.
 
-Ce projet vise à moderniser et optimiser la gestion opérationnelle des restaurants en remplaçant les méthodes manuelles traditionnelles par une solution digitale efficace, rapide et hautement ergonomique.
-  
-🎯 Objectif Principal
-Remplacer les commandes papier et offrir un plan de salle interactif en temps réel pour :
--   Réduire les erreurs de commande de 50%.
--   Augmenter la satisfaction client de 20%.
+🎯 Main Objective
+Replace paper-based ordering and provide a real-time interactive floor plan to:
+
+- Reduce ordering errors by 50%.
+
+- Increase customer satisfaction by 20%.
 
 ⚙️ Architecture & Technologies
-Le projet est basé sur le modèle MVC pour assurer la maintenabilité et l'évolutivité.  
+The project is built on the MVC (Model-View-Controller) pattern to ensure maintainability and scalability.
+👥 Contributors
+This project was carried out by:
 
+Ahmdi Achref
 
-Réaliser par Ahmdi Achref, Mehdi ben younes et Farouk kahia 
+Mehdi ben younes
+
+Farouk kahia
