@@ -5,9 +5,9 @@ This project aims to modernize and optimize restaurant operational management by
 🎯 Main Objective
 Replace paper-based ordering and provide a real-time interactive floor plan to:
 
-- Reduce ordering errors by 50%.
+- Reduce ordering errors 
 
-- Increase customer satisfaction by 20%.
+- Increase customer satisfaction 
 
 ⚙️ Architecture & Technologies
 The project is built on the MVC (Model-View-Controller) pattern to ensure maintainability and scalability.
